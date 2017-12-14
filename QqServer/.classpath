@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/KevinSmith/Desktop/HPE/QqClient/externalJARs/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KevinSmith/Desktop/HPE/QqClient/externalJARs/msbase.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KevinSmith/Desktop/HPE/QqClient/externalJARs/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KevinSmith/Desktop/HPE/QqClient/externalJARs/msutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KevinSmith/Desktop/HPE/QqClient/externalJARs/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
